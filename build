@@ -1,0 +1,2 @@
+#!/bin/sh
+ g++ getver_linux.cpp -o getver
